@@ -1,0 +1,1 @@
+# To-print-inverted-full-pyramid-of-characters
